@@ -10,7 +10,7 @@
       <center>
          <h1>Our Details and Favorite Shortcuts</h1>
       </center>
-      <table border= "solid">
+      <table border="solid">
          <tr>
             <th>Name</th>
             <th>Bearcat ID</th>
